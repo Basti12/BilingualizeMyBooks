@@ -1,0 +1,23 @@
+label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input[type='text'],
+  input[type='file'] {
+    margin-bottom: 10px;
+  }
+  
+  button[type='submit'] {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  button[type='submit']:hover {
+    background-color: #3e8e41;
+  }
+  
