@@ -1,0 +1,12 @@
+{
+  "name": "bilingualizemybooks",
+  "version": "1.0.0",
+  "description": "A tool that bilingualizes your books",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node backend/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
